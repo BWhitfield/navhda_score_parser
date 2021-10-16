@@ -2,5 +2,5 @@
 parse navhda scores from the pdf
 
 ```sh
-pdftotext -table ~/path_to/whatever_the_file.pdf
+pdftotext -table test/moupfall.pdf
 ```
